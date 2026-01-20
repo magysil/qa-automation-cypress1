@@ -39,7 +39,7 @@ cypress/
 ├── screenshots/             # Evidencias de fallos (generadas automáticamente)
 ├── cypress.config.js        # Configuración global de Cypress
 └── package.json             # Dependencias del proyecto
-
+```
 
 ---
 
