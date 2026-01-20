@@ -93,27 +93,27 @@ cypress/
 ### 1️⃣ Clonar el repositorio
 ```bash
 git clone <url-del-repositorio>
-cd nombre-del-proyecto ```
-
+cd nombre-del-proyecto 
+```
 ### 2️⃣ Instalar Dependencias
 ```bash
-npm install```
-
+npm install
+```
 ### 3️⃣ Ejecutar Cypress
 
 Modo interactivo:
-```bash```
+```bash
 npx cypress open
-
+```
 
 Modo headless:
-```bash```
+```bash
 npx cypress run
 ```
 
 ## 👩‍💻 Autora
 
-**Magally Silva**
+**Magally Silva Bello**
 **QA | QA Automation Junior**
 
 ### 📌 Proyecto desarrollado como parte de mi formación en testing y automatización.
